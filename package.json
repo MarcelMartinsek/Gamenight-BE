@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "env-schema": "^5.1.0"
+  }
+}
